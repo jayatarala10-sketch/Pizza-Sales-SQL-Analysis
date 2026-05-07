@@ -14,7 +14,7 @@ This project involves a comprehensive analysis of a pizza shop's sales data to e
 *   **Skills:** Multi-table Joins, Subqueries, Window Functions (`OVER`, `RANK`), Aggregate Functions (`SUM`, `AVG`), and Data Rounding.
 
 ## 📂 Project Structure
-*   [View the SQL Queries here](INSERT_LINK_TO_YOUR_SQL_FILE_HERE)
+*   [View the SQL Queries here](https://github.com/jayatarala10-sketch/Pizza-Sales-SQL-Analysis/blob/main/pizza_queries.sql)
 *   *Dataset: Contains order details, pizza types, and pricing.*
 
 ---
